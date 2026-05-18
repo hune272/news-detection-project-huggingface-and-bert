@@ -1,0 +1,31 @@
+============================================================
+FAKE NEWS DETECTOR - CATEGORIZED TEST HEADLINES (English only)
+============================================================
+
+🔴 CATEGORY 1: OBVIOUSLY FAKE (easy to detect)
+------------------------------------------------------------
+1.  Scientists confirm that the Earth is actually flat and NASA has been lying for 60 years
+2.  Drinking bleach every morning boosts your immune system according to top doctors
+3.  Elvis Presley and Michael Jackson found alive living together in a secret bunker in Antarctica
+4.  The Moon is a hologram projected by the government to hide what is really up there
+5.  Bill Gates admits he created COVID-19 in his basement laboratory to sell vaccines
+
+------------------------------------------------------------
+❓ CATEGORY 2: HARD TO DECIDE (tricky - could be fake or real)
+------------------------------------------------------------
+6.  Harvard study reveals that people who drink red wine daily have a significantly lower risk of heart disease
+7.  WHO quietly admits that lockdowns caused more deaths than the COVID-19 virus itself
+8.  Internal Google documents show the company manipulates search results to favor certain political views
+9.  New research suggests that coffee consumption may reduce the risk of developing Alzheimer's disease
+10. Leaked government report confirms that some voting machines were connected to the internet during the 2020 election
+
+------------------------------------------------------------
+✅ CATEGORY 3: OBVIOUSLY REAL (clearly true)
+------------------------------------------------------------
+11. The Federal Reserve raised interest rates by 0.25 percent to combat rising inflation
+12. Apple announced the release of its latest iPhone with improved camera and battery performance
+13. NASA successfully launched the Artemis mission carrying astronauts toward the Moon
+14. The United Nations held an emergency meeting regarding the ongoing conflict in the Middle East
+15. Tesla reported a drop in vehicle deliveries in the first quarter compared to the previous year
+
+============================================================
